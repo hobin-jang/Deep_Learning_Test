@@ -4,3 +4,9 @@
 
 코드 참고 : https://github.com/WegraLee/deep-learning-from-scratch
 
+일지
+
+~21.01.12 chapter 4
+
+~21.01.13 chapter 5.6
+

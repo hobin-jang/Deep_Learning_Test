@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 11 22:21:23 2021
-
-@author: ghqls
-"""
-
+# coding: utf-8
 import numpy as np
 
 def _numerical_gradient_1d(f, x):

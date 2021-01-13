@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 10 20:18:45 2021
-
-@author: ghqls
-"""
-
+# coding: utf-8
 import numpy as np
 
 

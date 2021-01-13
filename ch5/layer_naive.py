@@ -23,7 +23,7 @@ class MulLayer:
         return dx, dy
     
 class AddLayer:
-    def __init(self):
+    def __init__(self):
         pass
     
     def forward(self, x, y):
@@ -34,7 +34,7 @@ class AddLayer:
         dx = dout * 1
         dy = dout * 1
         return dx, dy
-    
+
 apple = 100
 apple_num = 2
 orange = 150
