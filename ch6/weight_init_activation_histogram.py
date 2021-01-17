@@ -44,3 +44,4 @@ for i, a in activations.items():
     plt.hist(a.flatten(), 30, range=(0,1))
 
 plt.show()
+
